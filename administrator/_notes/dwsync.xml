@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="index.php" server="sit.rp.edu.sg/fyp1/" local="129560588670000000" remote="129561548400000000" />
+<file name="addManager.php" server="sit.rp.edu.sg/fyp1/" local="129560587640000000" remote="129561548400000000" />
+<file name="changepass.php" server="sit.rp.edu.sg/fyp1/" local="129560587690000000" remote="129561548400000000" />
+<file name="chooseProfile.php" server="sit.rp.edu.sg/fyp1/" local="129560587730000000" remote="129561548400000000" />
+<file name="contactus.php" server="sit.rp.edu.sg/fyp1/" local="129560587780000000" remote="129561548400000000" />
+<file name="dbFunctions.php" server="sit.rp.edu.sg/fyp1/" local="129562304394260888" remote="129562304400000000" />
+<file name="delete.php" server="sit.rp.edu.sg/fyp1/" local="129555489650000000" remote="129561548400000000" />
+<file name="details.php" server="sit.rp.edu.sg/fyp1/" local="129560587880000000" remote="129561548400000000" />
+<file name="doActivate.php" server="sit.rp.edu.sg/fyp1/" local="129560587940000000" remote="129561548400000000" />
+<file name="doaddManager.php" server="sit.rp.edu.sg/fyp1/" local="129561466476877995" remote="129561548400000000" />
+<file name="doBan.php" server="sit.rp.edu.sg/fyp1/" local="129560588010000000" remote="129561548400000000" />
+<file name="dochangepass.php" server="sit.rp.edu.sg/fyp1/" local="129560588240000000" remote="129561548400000000" />
+<file name="doDeactivate.php" server="sit.rp.edu.sg/fyp1/" local="129560588060000000" remote="129561548400000000" />
+<file name="dodelete.php" server="sit.rp.edu.sg/fyp1/" local="129562300791133926" remote="129562304400000000" />
+<file name="doedit.php" server="sit.rp.edu.sg/fyp1/" local="129562302729964475" remote="129562304400000000" />
+<file name="doforgetpass.php" server="sit.rp.edu.sg/fyp1/" local="129560588380000000" remote="129561548400000000" />
+<file name="dologin.php" server="sit.rp.edu.sg/fyp1/" local="129560588440000000" remote="129561548400000000" />
+<file name="dologout.php" server="sit.rp.edu.sg/fyp1/" local="129560588480000000" remote="129561548400000000" />
+<file name="doPicture.php" server="sit.rp.edu.sg/fyp1/" local="129561653194377059" remote="129562132200000000" />
+<file name="doProfile.php" server="sit.rp.edu.sg/fyp1/" local="129560588140000000" remote="129561548400000000" />
+<file name="dosearch.php" server="sit.rp.edu.sg/fyp1/" local="129560613860000000" remote="129561548400000000" />
+<file name="edit.php" server="sit.rp.edu.sg/fyp1/" local="129560588590000000" remote="129561548400000000" />
+<file name="forgetpass.php" server="sit.rp.edu.sg/fyp1/" local="129560588630000000" remote="129561548400000000" />
+<file name="manage.php" server="sit.rp.edu.sg/fyp1/" local="129560588720000000" remote="129561548400000000" />
+<file name="picture.php" server="sit.rp.edu.sg/fyp1/" local="129561651684220683" remote="129562132200000000" />
+<file name="profile.php" server="sit.rp.edu.sg/fyp1/" local="129560588810000000" remote="129561548400000000" />
+<file name="search.php" server="sit.rp.edu.sg/fyp1/" local="129560588850000000" remote="129561548400000000" />
+<file name="javascript.js" server="sit.rp.edu.sg/fyp1/" local="129562265766777754" remote="129562297200000000" />
+</dwsync>
